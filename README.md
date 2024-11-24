@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/031baa39-b540-401b-9e71-a2285ba18cbe)# PENJELASAN
+# PENJELASAN
 
 1. Membuat Proyek di Firebase
   -Pertama, kita membuat proyek di Firebase dan mengaktifkan Google sebagai penyedia autentikasi di bagian Authentication.
